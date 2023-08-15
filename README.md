@@ -32,7 +32,7 @@ this project improved my designing skills
 
 ### Useful resources
 
-- [Example resource 1](https://tailwindcss.com/docs/box-shadow) - This helped me for Box Shadow. I really liked this pattern and will use it going forward.
+- [Box Shadow Resource](https://tailwindcss.com/docs/box-shadow) - This helped me for Box Shadow. I really liked this pattern and will use it going forward.
 
 ## Author
 
